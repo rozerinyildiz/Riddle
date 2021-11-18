@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Riddle</string>
+
+    <string name="bilmece_metni">People make me, save me, change me, raise me. What am I?</string>
+    <string name="bilmece_cevabı">Money</string>
+</resources>
